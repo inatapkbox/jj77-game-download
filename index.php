@@ -15,7 +15,7 @@ $primary_keyword = "JJ77";
     <!-- Meta Tags -->
     <title><?php echo htmlspecialchars($page_title); ?></title>
     <meta name="description" content="<?php echo htmlspecialchars($meta_description); ?>">
-    <link rel="canonical" href="<?php echo htmlspecialchars($canonical_url); ?>">
+    <link rel="canonical" href="https://jj77-game-download-0a4908a98f99.herokuapp.com/">
     <meta name="robots" content="index, follow">
     
     <!-- Open Graph Tags -->
